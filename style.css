@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+li{
+    display: inline;
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia
+}
+
+.containerimage{
+    display: flex;
+    justify-content: space-around;
+}
+.maindiv{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
